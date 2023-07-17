@@ -12,5 +12,6 @@
 	<h1>첫 화면 Index 입니다.</h1>
 	<a href ="./board">게시판</a>
 	<a href ="./main">메인</a>
+	<a href ="./team">팀뽑기</a>
 </body>
 </html>
